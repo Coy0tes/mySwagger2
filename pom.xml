@@ -49,6 +49,12 @@
             <version>2.9.2</version>
         </dependency>
 
+        <!--Swagger-ui 密码配置配置-->
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-security</artifactId>
+        </dependency>
+
         <!-- lombok -->
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
         <dependency>

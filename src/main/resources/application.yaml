@@ -1,0 +1,8 @@
+spring:
+  security:
+    basic:
+      path: /swagger-ui.html
+      enable: true
+    user:
+      name: admin
+      password: admin
